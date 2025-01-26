@@ -1,13 +1,13 @@
 ---
 title: 「&&」と「and」はどっちを使えばいい？
 tags:
-  - C++
   - PHP
-  - 論理演算子
+  - C++
   - プログラミング言語
+  - 論理演算子
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-01-26T15:32:53+09:00'
+id: b6984d560607442fd597
 organization_url_name: null
 slide: false
 ignorePublish: false
