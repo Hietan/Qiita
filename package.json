@@ -2,7 +2,9 @@
   "name": "qiita",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "@qiita/qiita-cli": "^1.6.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
