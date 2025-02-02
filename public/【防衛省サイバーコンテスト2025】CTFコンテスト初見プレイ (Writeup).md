@@ -1,5 +1,5 @@
 ---
-title: 【mod-ctf】CTFコンテスト初見プレイ (Writeup)
+title: 【防衛省サイバーコンテスト2025】CTFコンテスト初見プレイ (Writeup)
 tags:
   - 'CTF'
   - 'mod-ctf'
