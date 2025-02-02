@@ -1,12 +1,12 @@
 ---
 title: 【mod-ctf】CTFコンテスト初見プレイ (Writeup)
 tags:
-  - 'CTF'
-  - 'mod-ctf'
-  - 'Writeup'
+  - CTF
+  - writeup
+  - mod-ctf
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-02-02T22:27:27+09:00'
+id: 3f6aa1969047d95208c2
 organization_url_name: null
 slide: false
 ignorePublish: false
